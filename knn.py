@@ -1,4 +1,4 @@
-# k-nearest neighbors
+# k-nearest neighbors model
 # load dataset
 import pandas as pd
 data = pd.read_csv("raisin.csv")
