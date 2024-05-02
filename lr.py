@@ -1,3 +1,4 @@
+# logistic regression
 #load dataset
 import pandas as pd
 data = pd.read_csv("raisin.csv")
